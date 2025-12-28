@@ -37,11 +37,12 @@ Status: Not Implemented
 ---
 
 ### Phase 3: Frontend (React)
-Status: Planned
+Status: Started (Placeholder)
 
-- A simple React frontend will be used to display articles.
-- The focus is on showing article title and content in a clean layout.
-
+- Created frontend folder with App.js as a placeholder.
+- Will fetch articles from backend APIs and display title & content in a clean layout.
+- Focus is on basic structure; styling and functionality will be added in future.
+-
 ---
 
 ## Tools & Technologies
