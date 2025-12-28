@@ -48,7 +48,7 @@ Status: Started (Placeholder)
 ## Tools & Technologies
 - Node.js
 - Express.js
-- MongoDB / SQLite (planned)
+- MongoDB  (planned)
 - Axios & Cheerio (for scraping)
 - React.js (basic usage)
 
